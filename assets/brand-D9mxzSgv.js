@@ -1,0 +1,1 @@
+import{c as t,j as r,r as o}from"./via-c52Dd_hA.js";import{P as e}from"./ProdottoPage-CtijQMW5.js";import"./prodotti-DSLlwLZ9.js";import"./arrow-left-BA_-Z1y4.js";t(document.getElementById("root")).render(r.jsx(o.StrictMode,{children:r.jsx(e,{id:"brand"})}));
