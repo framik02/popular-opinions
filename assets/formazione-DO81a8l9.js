@@ -1,1 +1,0 @@
-import{a as r,j as o,r as t}from"./via-DbL3D_hM.js";import{P as e}from"./ProdottoPage-MXgvTork.js";import"./prodotti-DSLlwLZ9.js";r(document.getElementById("root")).render(o.jsx(t.StrictMode,{children:o.jsx(e,{id:"formazione"})}));

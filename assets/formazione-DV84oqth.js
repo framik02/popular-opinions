@@ -1,0 +1,1 @@
+import{a as r,j as o,r as t}from"./via--gS8Rs0U.js";import{P as e}from"./ProdottoPage-oFPi2IPg.js";import"./prodotti-DSLlwLZ9.js";r(document.getElementById("root")).render(o.jsx(t.StrictMode,{children:o.jsx(e,{id:"formazione"})}));
