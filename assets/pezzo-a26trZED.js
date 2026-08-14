@@ -1,0 +1,1 @@
+import{a as e,j as r,r as t,v as o}from"./via-PsssxUk9.js";import{A as a}from"./ArticleTemplate-BY0noRjT.js";import"./Impronta-DLlpPmTl.js";e(document.getElementById("root")).render(r.jsx(t.StrictMode,{children:r.jsx(a,{wrapperClass:"a5-sfondo-blur",homeHref:o()})}));

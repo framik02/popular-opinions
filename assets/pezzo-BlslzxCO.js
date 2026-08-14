@@ -1,1 +1,0 @@
-import{a as e,j as r,r as t,v as o}from"./via-BvVh2U19.js";import{A as a}from"./ArticleTemplate-CrThDGja.js";import"./Impronta-CsngBeJc.js";e(document.getElementById("root")).render(r.jsx(t.StrictMode,{children:r.jsx(a,{wrapperClass:"a5-sfondo-blur",homeHref:o()})}));
