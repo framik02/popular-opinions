@@ -1,1 +1,0 @@
-import{a as t,j as o,r}from"./via-PsssxUk9.js";import{P as e}from"./ProdottoPage-r15d_zwU.js";import"./prodotti-DSLlwLZ9.js";t(document.getElementById("root")).render(o.jsx(r.StrictMode,{children:o.jsx(e,{id:"monitoraggio"})}));
