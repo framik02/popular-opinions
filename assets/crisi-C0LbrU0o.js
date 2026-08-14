@@ -1,1 +1,0 @@
-import{a as t,j as r,r as o}from"./via-CQ8473Dl.js";import{P as e}from"./ProdottoPage-CjsLiTkP.js";import"./prodotti-DSLlwLZ9.js";t(document.getElementById("root")).render(r.jsx(o.StrictMode,{children:r.jsx(e,{id:"crisi"})}));
