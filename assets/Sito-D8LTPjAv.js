@@ -1,0 +1,26 @@
+import{a as l,v as s,r,j as e}from"./via-c52Dd_hA.js";import{p as d}from"./prodotti-DSLlwLZ9.js";/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const p=l("Instagram",[["rect",{width:"20",height:"20",x:"2",y:"2",rx:"5",ry:"5",key:"2e1cvw"}],["path",{d:"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z",key:"9exkf1"}],["line",{x1:"17.5",x2:"17.51",y1:"6.5",y2:"6.5",key:"r4j83e"}]]);/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=l("Linkedin",[["path",{d:"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z",key:"c2jq9f"}],["rect",{width:"4",height:"12",x:"2",y:"9",key:"mk3on5"}],["circle",{cx:"4",cy:"4",r:"2",key:"bt5ra8"}]]);/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const m=l("Mail",[["rect",{width:"20",height:"16",x:"2",y:"4",rx:"2",key:"18n3k1"}],["path",{d:"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7",key:"1ocrg3"}]]);/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const f=l("Menu",[["line",{x1:"4",x2:"20",y1:"12",y2:"12",key:"1e0a9i"}],["line",{x1:"4",x2:"20",y1:"6",y2:"6",key:"1owob3"}],["line",{x1:"4",x2:"20",y1:"18",y2:"18",key:"yk5zj1"}]]);/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const v=l("X",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]);function j({size:a=18}){return e.jsx("svg",{width:a,height:a,viewBox:"0 0 24 24",fill:"currentColor","aria-hidden":"true",children:e.jsx("path",{d:"M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"})})}function u({size:a=18}){return e.jsx("svg",{width:a,height:a,viewBox:"0 0 24 24",fill:"currentColor","aria-hidden":"true",children:e.jsx("path",{d:"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"})})}const b=[{icon:x,label:"LinkedIn",href:"https://www.linkedin.com/company/popular-opinions/"},{icon:p,label:"Instagram",href:"https://www.instagram.com/thepopularopinions"},{icon:j,label:"Substack",href:"https://substack.com/@thepopularopinions"},{icon:u,label:"X",href:"https://x.com/thepopopinions"},{icon:m,label:"Email",href:"mailto:ciao@popularopinions.it"}],c=[{label:"Chi siamo",href:s("chi-siamo/")},{label:"Analisi",href:s("analisi/")},{label:"Servizi",href:s("servizi/")},{label:"Scriveteci",href:s("#scrivici")}];function N({attiva:a}){const[n,o]=r.useState(!1),[h,t]=r.useState(!1);return r.useEffect(()=>{const i=()=>t(window.scrollY>40);return window.addEventListener("scroll",i),()=>window.removeEventListener("scroll",i)},[]),e.jsx("nav",{className:`hp-nav ${h?"scrolled":""}`,children:e.jsxs("div",{className:"hp-nav-inner",children:[e.jsxs("a",{href:s(),className:"hp-brand",children:[e.jsx("img",{className:"segno",src:s("marchio.svg"),alt:""}),"POPULAR OPINIONS",e.jsx("span",{className:"c",children:"."})]}),e.jsx("div",{className:`hp-nav-links ${n?"open":""}`,children:c.map(i=>e.jsx("a",{href:i.href,className:a===i.label?"qui":void 0,"aria-current":a===i.label?"page":void 0,onClick:()=>o(!1),children:i.label},i.href))}),e.jsx("button",{className:"hp-nav-toggle",onClick:()=>o(!n),"aria-label":"Menu","aria-expanded":n,children:n?e.jsx(v,{size:22}):e.jsx(f,{size:22})})]})})}function g(){return e.jsxs("footer",{id:"contatti",className:"hp-footer",children:[e.jsxs("div",{className:"hp-footer-inner",children:[e.jsxs("div",{className:"hp-footer-brand",children:[e.jsxs("div",{className:"hp-footer-logo",children:[e.jsx("img",{className:"segno",src:s("marchio.svg"),alt:""}),"POPULAR OPINIONS",e.jsx("span",{className:"c",children:"."})]}),e.jsx("p",{children:"Analisi del discorso pubblico. Contiamo le parole reali della rete, una per una."})]}),e.jsxs("div",{className:"hp-footer-links",children:[e.jsxs("div",{className:"hp-footer-col",children:[e.jsx("h4",{children:"Navigazione"}),c.map(a=>e.jsx("a",{href:a.href,children:a.label},a.href))]}),e.jsxs("div",{className:"hp-footer-col",children:[e.jsx("h4",{children:"Servizi"}),d.map(a=>e.jsx("a",{href:s(`servizi/${a.id}/`),children:a.nome},a.id))]}),e.jsxs("div",{className:"hp-footer-col",children:[e.jsx("h4",{children:"Seguici"}),e.jsx("div",{className:"hp-social-row",children:b.map(a=>e.jsx("a",{href:a.href,target:"_blank",rel:"noopener noreferrer","aria-label":a.label,className:"hp-social-icon",children:e.jsx(a.icon,{size:18})},a.label))}),e.jsx("a",{href:"mailto:ciao@popularopinions.it",className:"hp-footer-email",children:"ciao@popularopinions.it"})]})]})]}),e.jsxs("div",{className:"hp-footer-bottom",children:[e.jsx("span",{children:"© 2026 Popular Opinions"}),e.jsx("span",{children:"Roma"})]})]})}export{g as P,N as T};
