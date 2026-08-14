@@ -1,4 +1,4 @@
-import{c as N,r,j as e,v as g,A as w,T as L,a as R}from"./via--gS8Rs0U.js";import{p as S}from"./prodotti-DSLlwLZ9.js";import{I as M}from"./Impronta-GUBBRhp9.js";import{A as p,C as j,a as k,b as q}from"./ArticleTemplate-Ut1hqBL-.js";/**
+import{c as N,r,j as e,v as g,A as w,T as L,a as R}from"./via-CQ8473Dl.js";import{p as S}from"./prodotti-DSLlwLZ9.js";import{I as M}from"./Impronta-CmQnUJ9E.js";import{A as p,C as j,a as k,b as q}from"./ArticleTemplate-BVGv92xM.js";/**
  * @license lucide-react v0.446.0 - ISC
  *
  * This source code is licensed under the ISC license.
