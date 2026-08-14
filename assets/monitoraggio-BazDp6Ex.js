@@ -1,0 +1,1 @@
+import{a as t,j as o,r}from"./via-Boz_zHlz.js";import{P as e}from"./ProdottoPage-DYmW0ZJY.js";import"./prodotti-DSLlwLZ9.js";t(document.getElementById("root")).render(o.jsx(r.StrictMode,{children:o.jsx(e,{id:"monitoraggio"})}));
