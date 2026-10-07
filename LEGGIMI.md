@@ -14,6 +14,7 @@ dei corpus e i documenti di lavoro stanno altrove.
 | `/` | la home, con l'ultimo pezzo uscito e i servizi |
 | `/chi-siamo/` | il metodo, e cosa non facciamo |
 | `/analisi/` | l'archivio di tutti i pezzi |
+| `/grillo/` | Grillo a Pulp Podcast, 5.207 commenti contati |
 | `/spin-time/` | Spin Time, 6.114 commenti letti a mano |
 | `/conti/` | conti digitali, 378.175 commenti |
 | `/energia/` | fornitori di energia, 139.350 commenti |
